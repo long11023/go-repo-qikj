@@ -1,3 +1,5 @@
 # go-repo-qikj
 
-Represent paper beat it ask.
+This is a sample project written in **Javascript**.
+
+Generated automatically.
